@@ -1,6 +1,6 @@
 # Cube
 
-A texturemapped 3D cube rendered with OpenGL through LWJGL.
+A texturemapped 3D cube rendered with [OpenGL](https://www.opengl.org/) through [LWJGL](https://www.lwjgl.org/).
 
 ## Requirements
 
